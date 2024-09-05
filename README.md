@@ -1,1 +1,2 @@
-# NAV-GAT-ON
+# NAVIGATION
+This code finds shortest path using dijkstra's algorithm
